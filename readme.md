@@ -1,4 +1,6 @@
-1) pip install schedule
+1) a. pip install schedule
+   b. pip install pandas
+   c. pip install openpyxl
 
 2) Enter custom/testing email ids in subscriber.xlsx with email column.
 
