@@ -1,0 +1,3 @@
+[console_scripts]
+pyautomail = pyautomail.__main__:main
+pyautomail-manager = pyautomail.manager:main
